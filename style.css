@@ -1,0 +1,50 @@
+.highBar {
+  margin-left: 20px;
+
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  margin-top: 15px;
+}
+#title {
+  margin-right: 150px;
+}
+.middle {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+.middle1 {
+  margin-left: 20px;
+
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.middle2 {
+  margin-top: 20px;
+
+  display: flex;
+  flex-direction: row;
+}
+.middle3 {
+  margin-top: 20px;
+  margin-left: 10px;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.middle4 {
+  margin-top: 20px;
+}
+.underBar {
+  width: 350px;
+
+  margin-left: 20px;
+
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
